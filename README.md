@@ -3,4 +3,4 @@ Hi all, in this repository I will be adding apps that have been boosted to the t
 
 Apps
 
-1. Quit smoking & vaping app
+1. [Quit smoking & vaping app](https://github.com/appsdetective/boosted_apps/wiki/Quit-Smoking)
