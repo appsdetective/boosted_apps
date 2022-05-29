@@ -5,7 +5,8 @@ You can connect me via twitter (https://twitter.com/apps_detective)
 
 Apps
  
-1. [Quit smoking & vaping app](https://github.com/appsdetective/boosted_apps/wiki/Quit-Smoking)
-2. [Universal TV-Remote Control](https://github.com/appsdetective/boosted_apps/wiki/Universal-TV)
+1. [Universal TV-Remote Control](https://github.com/appsdetective/boosted_apps/wiki/Universal-TV)
+2. [Quit smoking & vaping app](https://github.com/appsdetective/boosted_apps/wiki/Quit-Smoking)
 3. [Decibel - sound level meter](https://github.com/appsdetective/boosted_apps/wiki/Decibel---sound-level-meter)
 4. [Flight Tracker & Radar](https://github.com/appsdetective/boosted_apps/wiki/Flight-Tracker-&-Radar)
+5. [GPS Speedometer & Miles Tracker](https://github.com/appsdetective/boosted_apps/wiki/GPS-Speedometer-&-Miles-Tracker)
