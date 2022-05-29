@@ -10,3 +10,4 @@ Apps
 3. [Decibel - sound level meter](https://github.com/appsdetective/boosted_apps/wiki/Decibel---sound-level-meter)
 4. [Flight Tracker & Radar](https://github.com/appsdetective/boosted_apps/wiki/Flight-Tracker-&-Radar)
 5. [GPS Speedometer & Miles Tracker](https://github.com/appsdetective/boosted_apps/wiki/GPS-Speedometer-&-Miles-Tracker)
+6. [Contraction Timer PRO](https://github.com/appsdetective/boosted_apps/wiki/Contraction-Timer-PRO)
