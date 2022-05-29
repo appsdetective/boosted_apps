@@ -7,3 +7,5 @@ Apps
  
 1. [Quit smoking & vaping app](https://github.com/appsdetective/boosted_apps/wiki/Quit-Smoking)
 2. [Universal TV-Remote Control](https://github.com/appsdetective/boosted_apps/wiki/Universal-TV)
+3. [Decibel - sound level meter](https://github.com/appsdetective/boosted_apps/wiki/Decibel---sound-level-meter)
+4. 
