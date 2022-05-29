@@ -13,3 +13,4 @@ Apps
 6. [Contraction Timer PRO](https://github.com/appsdetective/boosted_apps/wiki/Contraction-Timer-PRO)
 7. [Air Print](https://github.com/appsdetective/boosted_apps/wiki/Air-Print) (50_000 downloads)
 8. [Auto Clicker Assistant](https://github.com/appsdetective/boosted_apps/wiki/Auto-Clicker-Assistant) (80_000 downloads)
+9. [RAR & Zip File Extractor App](https://github.com/appsdetective/boosted_apps/wiki/RAR-&-Zip-File-Extractor-App) (30_000 downloads)
